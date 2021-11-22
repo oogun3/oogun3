@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @oogun3
-- 👀 I’m interested in cloud DevOps
+- 👋 Hi, I’m Ola
+- 👀 I’m interested in Cloud Migration Roles
 - 🌱 I’m currently learning Cloud DevOps, cloud Security, cloud sustainability
 - 💞️ I’m looking to collaborate on anything cloud
 - 📫 How to reach me olamide.ogunbameru@gmail.com
